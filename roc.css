@@ -1,0 +1,52 @@
+.area1 {
+    stroke-width:1;
+    stroke: LimeGreen; 
+  fill: LimeGreen;  
+}
+
+
+.area2 {
+    stroke-width:1;
+    stroke: FireBrick; 
+  fill: FireBrick;  
+}
+
+
+.area3 {
+    stroke-width:5;
+    stroke: Black; 
+}
+
+
+.aream1 {
+     stroke: Purple;
+    stroke-width:3;
+    fill: LimeGreen;
+}
+
+
+.aream2 {
+     stroke: Purple;
+    stroke-width:3;
+    fill: FireBrick;
+}
+
+.aream3 {
+     stroke: Purple;
+    stroke-width: 5;
+}
+
+// Class I ended up using for all text in app
+.sigma1d { 
+    font-family: Arial;
+}
+
+
+.axisR path,
+.axisR line{
+    stroke: Grey;
+    shape-rendering: crispEdges;
+}
+.axisR text {
+    fill: Grey;
+}
